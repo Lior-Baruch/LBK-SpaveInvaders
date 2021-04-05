@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 205892383 - Ido Teperson
+Second Student Details: 327156998- Lior Baruch
+Delivery Date.........: 14/10/2020
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2019
+Comments..............:
+========================End Exercise Checking Report========================
